@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566753289732",
+    "firebase_url": "https://butsi-test-app.firebaseio.com",
+    "project_id": "butsi-test-app",
+    "storage_bucket": "butsi-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566753289732:android:75c5994070ab2105983751",
+        "android_client_info": {
+          "package_name": "com.yuval.butsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566753289732-k1n4vnansn6n884qa3h56q403ath2a8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlSivVsdeB18g1cqKbdBLasQakI7fHEDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566753289732-k1n4vnansn6n884qa3h56q403ath2a8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
